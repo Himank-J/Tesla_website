@@ -18,7 +18,7 @@ function App() {
       <div className='app_itemcontainer'>
         <Item 
           title='Bringing Lowest Cost Solar Panels in India'
-          desc='Money-back guarantee'
+          desc=''
           desclink=''
           backgroundImg={SolarPanels}
           leftbtntxt='BOOK NOW'
